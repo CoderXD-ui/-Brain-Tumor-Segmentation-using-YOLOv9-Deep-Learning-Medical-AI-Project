@@ -1,0 +1,6 @@
+path: C:/Users/KIIT/Downloads/datasets/Brain_Tumor_Segmentation_Datasets/Brain_Tumor_Segmentation_Datasets
+train: train/images
+val: valid/images
+names:
+  0: tumor
+test: test/images
